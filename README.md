@@ -1,3 +1,3 @@
 # Jump-Point-Search
-astar.py contains the implementation of Astar Algorithm
-jps.py contains the implementation of Jump Point Search Algorithm
+\n astar.py contains the implementation of Astar Algorithm
+\n jps.py contains the implementation of Jump Point Search Algorithm
